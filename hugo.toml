@@ -1,0 +1,33 @@
+baseURL = "https://sleemcode.github.io/trading_blog_app/"
+languageCode = "en-us"
+title = "This rookie's Trading Blog"
+theme = "PaperMod"
+
+[params]
+  author = "Raja Sleem"
+  description = "A blog about trading."
+  keywords = ["trading, stocks, finance"]
+  defaultTheme = "auto"
+  showBorder = true
+  showBreadcrumbs = true
+  showDateUpdated = true
+  logo = "logo-one.png"  # Make sure to place your logo in the static folder
+  enableEmoji = true
+
+  [params.label]
+    text = "This rookie's Trading Blog"
+    icon = "/trading_blog_app/logo-one.png"
+    iconHeight = 45
+
+  [menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+

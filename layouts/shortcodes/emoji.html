@@ -1,0 +1,2 @@
+{{- $emoji := .Get 0 -}} {{- $emojis := dict "zany_face" "🤪" "smile" "😄" -}}
+{{- index $emojis $emoji | default $emoji -}}
