@@ -22,7 +22,7 @@ I plan to leverage my coding and automation experience, along with some AI, to h
 
 My goal from swing trading is to generate a second income. I don’t necessarily believe I’ll become a full-time trader; it could happen, but I’m not sure I even want that. The jury’s still out on that. But my first question is, can swing trading be a reality where I can actually generate a decent second income?
 
-As I enter my 40s crisis (cue the humor), I’ve started to realize that I’m at least halfway through my lifespan, assuming I live to 80. If I’m not going to enjoy life now, then when? At 75? Will I make it that long? Will I be healthy? Most importantly, do I really want to take that chance?
+As I enter my 40s crisis (cue the humor {{< emoji "zany_face" >}} ), I’ve started to realize that I’m at least halfway through my lifespan, assuming I live to 80. If I’m not going to enjoy life now, then when? At 75? Will I make it that long? Will I be healthy? Most importantly, do I really want to take that chance?
 
 I need extra income so I can plan trips, build projects that I enjoy, like a kitchen patio or a car project, and buy a camper and some new gadgets. The point is I want to enjoy the present, the now, while still not increasing my workload by an extra 20 hours a week. I call it the 1:1 ratio: for every 1 hour you spend, you make $x amount of money. I want to generate extra income that, with time, turns into a 1:5 ratio, where money is making me money. More like a passive income, but different. Instead of making $100 an hour, I could spend an hour deciding and making a new trade that could generate $500 in profit. Hence, the 1:5 ratio, for example. That’s important.
 
