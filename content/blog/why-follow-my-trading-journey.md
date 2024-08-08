@@ -1,7 +1,7 @@
 +++
 title = 'Why Follow My Trading Journey'
 date = 2024-08-06T19:57:18-04:00
-draft = true
+draft = false
 +++
 
 I’m not a successful trader. In fact, I haven’t made any money trading yet. I’ve been losing money in the stock market, trying my hand at swing trading. So, why should you keep reading this post? Simple. Unlike other posts or YouTube videos, I haven’t made it in the trading business, and I’m not rich. Instead, I’m here to share my journey with you, showing every step of the way, my progress, my failures, and so on.

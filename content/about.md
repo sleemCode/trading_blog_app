@@ -3,7 +3,7 @@ title = "About Me"
 date = 2024-08-06T19:56:22-04:00
 type = "page"
 layout = "about"
-draft = true
+draft = false
 +++
 
 Hey there! I'm Raja, a software engineer with a passion for technology and a knack for solving complex technical problems. Over the past 11+ years, I've dabbled in everything from Java and Python to Flutter and beyond. I'm all about making processes more efficient and building tools to boost productivity. Automation is my mantra, and I'm constantly finding ways to save time and improve workflows.
@@ -16,4 +16,4 @@ I'm a newbie in the world of investing and trading, just starting to learn the r
 
 [contactThisRookieTrader@pm.me](mailto:contactThisRookieTrader@pm.me)
 
-![tradingrookie](/trading_blog_app/logo-one.png)
+![tradingrookie](/trading_blog_app/images/trading_rookie_logo.png)
