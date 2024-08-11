@@ -16,7 +16,7 @@ theme = "PaperMod"
 
   [params.label]
     text = "This rookie's Trading Blog"
-    icon = "/trading_blog_app/images/trading_rookie_logo.png"
+    icon = "/images/trading_rookie_logo.png"
     iconHeight = 45
 
   [menu]

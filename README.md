@@ -5,6 +5,8 @@
 
 ## [hugo-PaperMo Docs](#trading-blog-app-table-of-content)
 
+> This README is only for technical documentation. For Blog content, strategies and other non-technical information, please refer to the [Blog App Md](/Users/werewolfninja/Documents/my-git-hub/trading/blog_app/blog_app.md) file.  
+
 Main Repo:  
 <https://github.com/adityatelange/hugo-PaperMod/>  
 

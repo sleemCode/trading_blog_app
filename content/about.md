@@ -16,4 +16,4 @@ I'm a newbie in the world of investing and trading, just starting to learn the r
 
 [contactThisRookieTrader@pm.me](mailto:contactThisRookieTrader@pm.me)
 
-![tradingrookie](/trading_blog_app/images/trading_rookie_logo.png)
+![tradingrookie](/images/trading_rookie_logo.png)
