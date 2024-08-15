@@ -13,6 +13,8 @@ theme = "PaperMod"
   showDateUpdated = true
   logo = "images/trading_rookie_logo.png"  # Make sure to place your logo in the static folder
   enableEmoji = true
+  UseHugoToc = true
+  DateFormat = "January 2, 2006"
 
   [params.label]
     text = "This rookie's Trading Blog"
@@ -24,10 +26,10 @@ theme = "PaperMod"
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 1
+    weight = 3
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 2
+    name = "Posts Journey"
+    url = "/posts-journey/"
+    weight = 1
+
 

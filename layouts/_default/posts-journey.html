@@ -1,0 +1,19 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<br>
+<p>{{ .Description }}</p>
+<br>
+
+<ul>
+{{ $posts := where .Site.Pages "Section" "blog" }} <!-- Collect posts in the blog section -->
+{{ $sortedPosts := sort $posts "Params.subtitle" }} <!-- Sort the collected posts by subtitle -->
+
+{{ range $sortedPosts }}
+    {{ if and (not .IsNode) (not .Params.draft) }} <!-- Exclude draft posts and Ensure the page is not a section node -->
+    <li>
+        <a href="{{ .Permalink }}" class="blog-link">{{ .Title }}</a> - {{ .Params.subtitle }}
+    </li>
+    {{ end }}
+{{ end }}
+</ul>
+{{ end }}

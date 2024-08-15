@@ -1,8 +1,11 @@
 +++
 title = 'Why Follow My Trading Journey'
+subtitle = "Chapter I - Sec I"
 description = "Join my journey as a beginner trader, exploring the realities of swing trading, the pitfalls of trading gurus, and the quest for success in the stock market."
 tags = ["trading", "swing trading", "stock market", "beginner"]
 date = 2024-08-06T19:57:18-04:00
+lastmod = 2024-08-14
+showToc = true
 draft = false
 +++
 
@@ -13,13 +16,13 @@ draft = false
 
 I’m not a successful trader. In fact, I haven’t made any money trading yet. I’ve been losing money in the stock market, trying my hand at swing trading. So, why should you keep reading this post? Simple. Unlike other posts or YouTube videos, I haven’t made it in the trading business, and I’m not rich. Instead, I’m here to share my journey with you, showing every step of the way, my progress, my failures, and so on.
 
-![](/trading_blog_app/images/my_journey_as_a_beginner_trader/sample.png)
+<!-- ![](/trading_blog_app/images/my_journey_as_a_beginner_trader/sample.png) -->
 
 ### The Problem with Trading Gurus
 
 You’ve probably seen content creators boasting about their large trading profits, yet they spend an awful lot of time creating videos to "help" you become a trader. Seems a little off, right? Why not spend that time trading since they’re supposedly awesome at it? And the best part is when they try to sell you a book or a digital PDF. It’s like saying, “Let me help you get rich, but first, make me rich.”
 
-![](/trading_blog_app/images/the_problem_with_trading_gurus/sample.png)
+<!-- ![](/trading_blog_app/images/the_problem_with_trading_gurus/sample.png) -->
 
 ### Trusting the Right Sources
 

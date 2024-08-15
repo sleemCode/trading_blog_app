@@ -1,8 +1,10 @@
 +++
 title = "Leveraging Tools and Strategies for Swing Trading Success"
+subtitle = "Chapter I - Sec III"
 description = "Explore how coding, automation, and AI are enhancing my swing trading journey, with a focus on generating a sustainable second income."
 tags = ["trading", "swing trading", "AI", "automation", "second income"]
 date = 2024-08-07T02:22:00-04:00
+showToc = true
 draft = false
 +++
 

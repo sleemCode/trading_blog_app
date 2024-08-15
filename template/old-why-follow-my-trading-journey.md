@@ -1,5 +1,6 @@
 +++
 title = 'Why Follow My Trading Journey'
+subtitle = "Chapter I - Sec II"
 date = 2024-08-06T19:57:18-04:00
 draft = false
 +++

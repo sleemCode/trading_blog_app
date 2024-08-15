@@ -1,9 +1,11 @@
 +++
 title = "My Chances of Succeeding in Swing Trading"
+subtitle = "Chapter I - Sec II"
 description = "Explore the statistics, key factors, and strategies that influence success in swing trading, and understand the dedication required to increase your chances."
 tags = ["swing trading", "trading success", "stock market", "trading strategies", "beginner"]
 date = 2024-08-09T03:45:00-04:00
-draft = false
+showToc = true
+draft = false  
 +++
 
 &nbsp;

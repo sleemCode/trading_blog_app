@@ -3,6 +3,7 @@ title = 'Why Follow My Trading Journey'
 description = "Join my journey as a beginner trader, exploring the realities of swing trading, the pitfalls of trading gurus, and the quest for success in the stock market."
 tags = ["trading", "swing trading", "stock market", "beginner"]
 date = 2024-08-06T19:57:18-04:00
+showToc = true
 draft = true
 +++
 
