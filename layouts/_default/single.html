@@ -50,6 +50,7 @@
     {{- if .Params.lastmod }}
     <p class="last-updated">Last updated: {{ .Params.lastmod.Format "January 2, 2006" }}</p>
     {{- else }}
+    {{/*  TODO custom code ends */}}
     <p class="last-updated hidden">Last updated: N/A</p> <!-- Debugging line -->
     {{- end }}
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
