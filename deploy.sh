@@ -11,6 +11,9 @@ hugo -t PaperMod
 # Go To Public folder
 cd public
 
+# Ensure the CNAME file is present, otherwise it will remove the custom domain from settings/pages
+cp ../static/CNAME .  # Copy CNAME file to public directory
+
 # Initialize a new git repository if it does not exist
 if [ ! -d ".git" ]; then
   git init
