@@ -2,7 +2,7 @@
 
 ## Instructions
 
-You have on option for this task: create a new blog post. Please follow the instructions below based on your chosen option.
+You have on option for this task: create a new blog post around 1,500-2,500 words. Please follow the instructions below based on your chosen option.
 
 ### Creating a New Blog Post
 

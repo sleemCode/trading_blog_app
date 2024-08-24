@@ -15,6 +15,7 @@ theme = "PaperMod"
   enableEmoji = true
   UseHugoToc = true
   DateFormat = "January 2, 2006"
+  mainSections = ["blog"]
 
   [params.label]
     text = "This rookie's Trading Blog"
@@ -28,6 +29,7 @@ theme = "PaperMod"
     url = "/about/"
     weight = 3
   [[menu.main]]
+    identifier = "Posts Journey"
     name = "Posts Journey"
     url = "/posts-journey/"
     weight = 1
